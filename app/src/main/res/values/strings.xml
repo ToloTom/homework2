@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="find_your_brew">Find Your Brew</string>
+    <string name="getStarted">Get Started</string>
+    <string name="searchByName">Search By Beer Name</string>
+    <string name="brewed">Brewed</string>
+    <string name="to">to</string>
+    <string name="monthYear">mm/yyyy</string>
+    <string name="highPoint">High Point Beer?</string>
+    <string name="showResults">Show Results</string>
+    <string name="favorite">favorite</string>
+</resources>
